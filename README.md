@@ -1,2 +1,2 @@
 # clone-tabnews
-Projeto completo, implementação do https://www.tabmews.com.br para o https://curso.dev
+Projeto completo, implementação do https://www.tabnews.com.br para o https://curso.dev
